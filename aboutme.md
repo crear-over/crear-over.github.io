@@ -1,16 +1,25 @@
 ---
 layout: page
-title: About me
-subtitle: Why you'd want to go on a date with me
+title: Nuestra historia 📜
+subtitle: Emprendiendo por un sueño 🚀
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+🤝 Somos CreAR, un emprendimiento impulsado por el deseo de vivir experiencias únicas 🤩 en esta vida y ayudar a los demás, vivimos fascinados por temas como:
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+- 🔮 Realidad Aumentada
+- 🌌 Realidad Virtual
+- 🤖 Inteligencia Artificial
+- 🔗 Blockchain
+- 🌌 Metaversos
 
-What else do you need?
+🔜 Próximamente más información...
 
-### My story
+## 👥 Conoce a nuestro equipo
 
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+### 🧑 Sebastian Romero
+
+Sebastian es...
+
+### 🧑 Pablo Romero
+
+Pablo es...
