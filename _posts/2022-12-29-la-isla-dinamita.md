@@ -5,6 +5,7 @@ subtitle: 🎮 Cómo creé mi propio videojuego de LEGO y cómo tú también pue
 cover-img: /assets/img/isla-dinamita.png
 thumbnail-img: /assets/img/isla-dinamita-miniatura.png
 share-img: /assets/img/isla-dinamita.png
+readtime: true
 tags: [realidad virtual, videojuegos]
 ---
 
@@ -25,6 +26,11 @@ Si tú también quieres crear tu propio videojuego, aquí hay algunos consejos �
 ¡Ya terminé mi videojuego de LEGO y estoy muy emocionado de compartirlo con todos! Si quieres probarlo, sólo tienes que hacer click en el enlace de abajo 🔗 para acceder a él. ¡Espero que lo disfrutes tanto como yo lo hice creándolo!
 
 <iframe id='webgl_iframe' frameborder="0" allow="autoplay; fullscreen; vr" allowfullscreen="" allowvr=""     mozallowfullscreen="true" src="https://play.unity.com/webgl/e72d77b8-8bce-45a7-9f98-15f171781ed1?screenshot=false&embedType=embed"  width="100%" height="640" onmousewheel="" webkitallowfullscreen="true"></iframe>
+
+Si tienes problemas con la versión web, prueba instalando el juego en tu computadora. Te dejo los enlaces de descarga para cada sistema operativo:
+
+ - <a href="https://github.com/crear-over/Unity-Microgame-Lego/blob/master/Executables/Windows.zip?raw=true">Windows </a>
+ - <a href="https://github.com/crear-over/Unity-Microgame-Lego/blob/master/Executables/Linux.zip?raw=true">Linux </a>
 
 ### Conclusión
 
