@@ -20,14 +20,14 @@ author: Juan Sebastian Romero Velez
 ###############################################
 
 navbar-links:
-  Sobre Nosotros 👥: "aboutme"
+  Nosotros 👥: "aboutme"
   Proyectos 💻:
-    - Realidad Aumentada 🔮: "https://beautifuljekyll.com"
-    - Realidad Virtual 🌌: "https://www.markdowntutorial.com/"
-    - Inteligencia Artificial 🤖: "https://chat.openai.com/chat"
+    - Realidad Aumentada 🔮: "404"
+    - Realidad Virtual 🌌: "https://crear-over.github.io/tags/#realidad%20virtual"
+    - Inteligencia Artificial 🤖: "404"
   Productos 🛒:
-    - SmartWatch ⌚: "aboutme" 
-  Blog: "https://deanattali.com"
+    - SmartWatch ⌚: "404" 
+  Donar 💝: "https://colombia.marialuisa.foundation/donar/"
 
 ################
 # --- Logo --- #
