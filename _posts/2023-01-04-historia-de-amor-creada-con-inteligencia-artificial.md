@@ -2,9 +2,9 @@
 layout: post
 title: Historia de amor creada con inteligencia artifical
 subtitle: ¡Crea historias de amor únicas con inteligencia artificial! 💘
-cover-img: /assets/img/love-history/robot.png
-thumbnail-img: /assets/img/love-history/love-miniatura.png
-share-img: assets/img/love-history/love-miniatura.png
+cover-img: /assets/img/love-history/robot.jpg
+thumbnail-img: /assets/img/love-history/love-miniatura.jpg
+share-img: assets/img/love-history/love-miniatura.jpg
 readtime: true
 tags: [inteligencia artifical, historia de amor]
 ---
@@ -24,22 +24,22 @@ A continuación, te muestro un ejemplo de la historia de amor que creé utilizan
 
 {: .box-note}
 La historia de amor entre "el señor adivina" 🔮 y "la leo" 🦁 comienza en la universidad 🏫, donde ambos estudian ingeniería de sistemas 💻. A pesar de que compartían la misma clase y la misma pasión por la tecnología 💻, "el señor adivina" y "la leo" nunca se habían cruzado antes.
-![Crepe](../assets/img/love-history/university.png){: .mx-auto.d-block :}
+![Crepe](../assets/img/love-history/university.jpg){: .mx-auto.d-block :}
 
 {: .box-note}
 Un día, mientras "el señor adivina" trabajaba en un proyecto en el laboratorio de informática 💻, se encontró con "la leo", quien estaba buscando un libro 📚 en una estantería cercana. Al verla, "el señor adivina" sintió una conexión instantánea 😍 y no pudo resistir la tentación de hablar con ella.
-![Crepe](../assets/img/love-history/encuentro.png){: .mx-auto.d-block :}
+![Crepe](../assets/img/love-history/encuentro.jpg){: .mx-auto.d-block :}
 
 {: .box-note}
 A medida que conversaban, "el señor adivina" se dio cuenta de que "la leo" era una chica inteligente y divertida 😁, y se sintió atraído por su personalidad alegre 😄 y su pasión por la tecnología 💻. Sin embargo, ambos eran demasiado tímidos 😳 para hablar de sus sentimientos y decidieron seguir siendo amigos.
 
 {: .box-note}
 Fue entonces cuando entró en escena "el papu" 🐒, un amigo cercano de "la leo" que siempre había sido muy bueno para emparejar a la gente 💕. Desde el primer momento, "el papu" vio el potencial de una relación entre "el señor adivina" y "la leo" y decidió intervenir para ayudarlos a enamorarse.
-![Crepe](../assets/img/love-history/papu.png){: .mx-auto.d-block :}
+![Crepe](../assets/img/love-history/papu.jpg){: .mx-auto.d-block :}
 
 {: .box-note}
 Con el tiempo, "el papu" organizó citas románticas 👩‍❤️‍💋‍👨 y eventos especiales 🎉 para que "el señor adivina" y "la leo" pudieran estar juntos y conocerse mejor. Finalmente, después de mucho esfuerzo 💪 y gracias a la ayuda de "el papu" 🙏, "el señor adivina" y "la leo" se dieron cuenta de que estaban enamorados ❤️  y decidieron casarse 💒. A pesar de las dificultades que enfrentaron, nunca dejaron de amarse y apoyarse mutuamente 💕. Juntos, lucharon por superar cualquier obstáculo 💪 y vivieron felices para siempre 😊, mientras se graduaban con honores 🎓 y comenzaban sus carreras en el mundo de la tecnología 💻.
-![Crepe](../assets/img/love-history/matrimonio.png){: .mx-auto.d-block :}
+![Crepe](../assets/img/love-history/matrimonio.jpg){: .mx-auto.d-block :}
 
 ¡Espero que hayas disfrutado la historia de amor y esta pequeña guía sobre cómo crear historias de amor con inteligencia artificial! 🤓 Si quieres probar más herramientas como estas, solo tienes que buscarlas en internet. ¡Asegúrate de compartir tu creación con tus amigos! 😊
 
