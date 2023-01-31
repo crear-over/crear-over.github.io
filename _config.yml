@@ -165,7 +165,7 @@ footer-img: "https://media1.giphy.com/media/FlodpfQUBSp20/giphy.gif?cid=ecf05e47
 #################################
 
 # Fill in your Google Analytics gtag.js ID to track your website using gtag
-#gtag: ""
+gtag: "G-403GF2SWW1"
 
 # Fill in your Google Analytics ID to track your website using Google Analytics
 google_analytics: "G-403GF2SWW1"
