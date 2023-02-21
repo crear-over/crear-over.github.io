@@ -10,7 +10,7 @@
 ############################
 
 # Name of website
-title: CreAR
+title: Crer Bots
 
 # Your name to show in the footer
 author: Juan Sebastian Romero Velez
@@ -22,11 +22,12 @@ author: Juan Sebastian Romero Velez
 navbar-links:
   Nosotros 👥: "aboutme"
   Proyectos 💻:
-    - Realidad Aumentada 🔮: "https://crear-over.github.io/tags/#realidad%20aumentada"
-    - Realidad Virtual 🌌: "https://crear-over.github.io/tags/#realidad%20virtual"
     - Inteligencia Artificial 🤖: "https://crear-over.github.io/tags/#inteligencia%20artifical"
     - Chat Bot 📲: "https://t.me/crearover_bot"
     - Profe Bot 📚: "https://t.me/tuprofesebas_bot"  
+    - Realidad Aumentada 🔮: "https://crear-over.github.io/tags/#realidad%20aumentada"
+    - Realidad Virtual 🌌: "https://crear-over.github.io/tags/#realidad%20virtual"
+    - Conferencias 🎤: "#"
   Productos 🛒:
     - SmartWatch ⌚: "https://treinta.shop/creear/1fcca520-5b21-51ef-be0f-504ae27c4a7b" 
     - Mug 🍵 : "https://treinta.shop/creear/63626333-3333-5665-b938-336232646661"
@@ -56,13 +57,13 @@ round-avatar: true
 # Select the social network links that you want to show in the footer.
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
-  instagram: crear_over
-  facebook: crear.over
-  twitter: crear_over
-  youtube: "@crear_over"
+  instagram: crearbots
+  facebook: crearbots
+  twitter: crearbots
+  youtube: "@crearbots"
   email: "crear.over@gmail.com"
-  telegram: crear_over
-  github: crear-over
+  telegram: crearb0ts
+  github: crearbots
   linkedin: juan-sebastian-romero-velez
 #  rss: true  # remove this line if you don't want to show an RSS link at the bottom
 #  patreon: DeanAttali
@@ -101,7 +102,7 @@ share-links-active:
 
 # How to display the link to your website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "crear-over.com"
+url-pretty: "crearbots.com"
 
 # Excerpt word length - Truncate the excerpt of each post on the feed page to the specified number of words
 excerpt_length: 50

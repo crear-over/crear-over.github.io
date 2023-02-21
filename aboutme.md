@@ -10,7 +10,6 @@ subtitle: Emprendiendo por un sueño 🚀
 - 🌌 Realidad Virtual
 - 🤖 Inteligencia Artificial
 - 🔗 Blockchain
-- 🌌 Metaversos
 
 🔜 Próximamente más información...
 
