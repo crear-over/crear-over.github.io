@@ -3,10 +3,10 @@ layout: post
 title: Aprende de Criptomonedas con esta charla
 subtitle: ¿Invertir en criptomonedas? 🤔💰🚀 
 #cover-img: /assets/img/love-history/robot.png
-thumbnail-img: /assets/img/criptomonedas-charla/poster.jpg
+thumbnail-img: /assets/img/criptomonedas-charla/bitcoin.jpg
 share-img: assets/img/criptomonedas-charla/poster.jpg
 readtime: true
-tags: [blockchain, conferencia]
+tags: [blockchain, conferencia, criptomonedas]
 ---
 
 💰🤔🚀 ¿Alguna vez has oído hablar de las criptomonedas? ¿Te has preguntado si vale la pena invertir en ellas o si son simplemente una moda pasajera? Si es así, entonces el video de la charla de Juan Sebastian Romero Velez en la SLUD es justo lo que necesitas.

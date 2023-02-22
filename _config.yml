@@ -22,12 +22,12 @@ author: Juan Sebastian Romero Velez
 navbar-links:
   Nosotros 👥: "aboutme"
   Proyectos 💻:
-    - Inteligencia Artificial 🤖: "https://crear-over.github.io/tags/#inteligencia%20artifical"
-    - Chat Bot 📲: "https://t.me/crearover_bot"
+    - Inteligencia Artificial 🤖: "https://crearbots.github.io/tags/#inteligencia%20artifical"
+    - Chat Bot 📲: "https://t.me/crearbots_bot"
     - Profe Bot 📚: "https://t.me/tuprofesebas_bot"  
-    - Realidad Aumentada 🔮: "https://crear-over.github.io/tags/#realidad%20aumentada"
-    - Realidad Virtual 🌌: "https://crear-over.github.io/tags/#realidad%20virtual"
-    - Conferencias 🎤: "#"
+    - Realidad Aumentada 🔮: "https://crearbots.github.io/tags/#realidad%20aumentada"
+    - Realidad Virtual 🌌: "https://crearbots.github.io/tags/#realidad%20virtual"
+    - Conferencias 🎤: "https://crearbots.github.io/tags/#conferencia"
   Productos 🛒:
     - SmartWatch ⌚: "https://treinta.shop/creear/1fcca520-5b21-51ef-be0f-504ae27c4a7b" 
     - Mug 🍵 : "https://treinta.shop/creear/63626333-3333-5665-b938-336232646661"
@@ -168,10 +168,10 @@ footer-img: "https://media1.giphy.com/media/FlodpfQUBSp20/giphy.gif?cid=ecf05e47
 #################################
 
 # Fill in your Google Analytics gtag.js ID to track your website using gtag
-gtag: "G-403GF2SWW1"
+gtag: "G-BGGJCE3SQ6"
 
 # Fill in your Google Analytics ID to track your website using Google Analytics
-google_analytics: "G-403GF2SWW1"
+google_analytics: "G-BGGJCE3SQ6"
 
 # Fill in your Cloudflare Analytics beacon token to track your website using Cloudflare Analytics
 #cloudflare_analytics: ""
