@@ -4,7 +4,7 @@ title: Nuestra historia 📜
 subtitle: Emprendiendo por un sueño 🚀
 ---
 
-🤝 Somos CreAR, un emprendimiento impulsado por el deseo de vivir experiencias únicas 🤩 en esta vida y ayudar a los demás, vivimos fascinados por temas como:
+🤝 Somos Crear Bots, un emprendimiento impulsado por el deseo de vivir experiencias únicas 🤩 en esta vida y ayudar a los demás, vivimos fascinados por temas como:
 
 - 🔮 Realidad Aumentada
 - 🌌 Realidad Virtual
